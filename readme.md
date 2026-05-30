@@ -17,5 +17,11 @@ We do not use any third-party analytics tools, advertising SDKs, or tracking ser
 4. Updates to This Policy
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
 
-5. Contact Us
-If you have any questions or concerns about this privacy policy, please feel free to contact us at: workwplus@gmail.com
+5. Contact & Support
+
+If you have any questions, concerns, or require technical support regarding the TBK CNC Controller application, please feel free to reach out to us:
+
+Email: workwplus@gmail.com
+
+
+We are committed to providing timely assistance for all technical inquiries related to our software.
