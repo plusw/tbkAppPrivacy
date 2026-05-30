@@ -1,4 +1,4 @@
-rivacy Policy
+Privacy Policy
 Effective Date: May 30, 2026
 
 This Privacy Policy explains how our application, TBK CNC Controller, handles your data. We are committed to protecting your privacy and being transparent about our practices.
